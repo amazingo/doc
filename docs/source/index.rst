@@ -1,11 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to Amazingo's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
+**Amazingo** is a reliability Engineer and also study on Robotics Engineering
+This space is for writing technical document and blogs
+技术博客测试
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
@@ -14,10 +12,17 @@ how to :ref:`installation` the project.
    This project is under active development.
 
 Contents
---------技术博客测试
-
+============
 
 .. toctree::
+  :maxdepth: 1
+  :caption: Summary
 
-   usage
-   api
+  Chi-squared test
+  blog
+  usage
+  api
+  
+
+
+   
